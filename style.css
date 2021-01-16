@@ -9,10 +9,12 @@
  }
  .cuerpo1{
      background-color: skyblue;
+     width: 600px;
  }
 
  .texto1{
-     align-items: center;
+    
+     text-align: center;
      
  }
  .text1{
